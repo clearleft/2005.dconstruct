@@ -1,0 +1,6 @@
+repository: git@github.com:clearleft/2005.dconstruct.git
+
+deploy:
+  branch: master
+  server: dconstruct.clearleft.host
+  domain: 2005.dconstruct.org
