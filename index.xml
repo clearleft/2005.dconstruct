@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>d.Construct 2005</title>
+    <link>http://www.clearleft.com/dconstruct05/</link>
+    <description>Presentations from the d.Construct Web 2.0 conference 2005. Brought to you by clear:left. http://www.clearleft.com/</description>
+    <generator>Feeder 1.2.4.1 http://reinventedsoftware.com/feeder/</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <language>en-uk</language>
+    <pubDate>Thu, 22 Dec 2005 11:00:03 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Dec 2005 11:00:03 +0000</lastBuildDate>
+    <item>
+      <title>Andy Budd - What is Web 2.0?</title>
+      <description><![CDATA[User experience designer and upcoming author, Andy Budd, discusses how the web is moving from a document delivery system to an application platform. Andy attempts to define what Web 2.0 really means and looks at some of the technologies and applications making this transition possible.]]></description>
+      <pubDate>Mon, 14 Nov 2005 21:23:23 +0000</pubDate>
+      <enclosure url="http://clearleft.com/dconstruct05/mp3/AndyBudd.mp3" length="35653751" type="audio/mpeg"/>
+      <guid isPermaLink="false">andy-budd-what-is-web-20</guid>
+    </item>
+    <item>
+      <title>Stuart Langridge - DOM Scripting and Ajax</title>
+      <description><![CDATA[Web developer and author of DHTML Utopia, Stuart Langridge discusses the resurgence of JavaScript and how, combined with XML, Ajax is allowing developers to create a new breed of rich Internet applications.]]></description>
+      <pubDate>Mon, 14 Nov 2005 21:25:39 +0000</pubDate>
+      <enclosure url="http://clearleft.com/dconstruct05/mp3/StuartLangridge.mp3" length="37920357" type="audio/mpeg"/>
+      <guid isPermaLink="false">stuart-langridge-dom-scripting-and-ajax</guid>
+    </item>
+    <item>
+      <title>Simon Willison - Ajax and the Flickr API</title>
+      <description><![CDATA[Simon Willison from Yahoo!'s Flickr development team discusses the XML web services API that has lead to Flickr acting as a platform for other developers, and shows how the site itself makes use of the API with Ajax.]]></description>
+      <pubDate>Tue, 15 Nov 2005 23:17:36 +0000</pubDate>
+      <enclosure url="http://clearleft.com/dconstruct05/mp3/SimonWillison.mp3" length="27297505" type="audio/mpeg"/>
+      <guid isPermaLink="false">simon-willison-ajax-and-the-flickr-api</guid>
+    </item>
+    <item>
+      <title>Ben Metcalfe - backstage.bbc.co.uk</title>
+      <description><![CDATA[Ben Metcalfe, Project Lead for the BBC's developer network backstage.bbc.co.uk, talks about how the corporation is encouraging and supporting grassroots developers who want to remix its content into their projects.]]></description>
+      <pubDate>Tue, 22 Nov 2005 22:59:14 +0000</pubDate>
+      <enclosure url="http://clearleft.com/dconstruct05/mp3/BenMetcalfe.mp3" length="36425905" type="audio/mpeg"/>
+      <guid isPermaLink="false">ben-metcalfe-backstagebbccouk</guid>
+    </item>
+    <item>
+      <title>Tom Hume - Web Everywhere</title>
+      <description><![CDATA[Tome Hume, Director of mobile design and technology specialists Future Platforms, examines and discusses trends in internet usage from mobile and handset devices. How come everyone in the UK is constantly online today? What's different about the mobile internet? And where does this leave Bill Gates' vision of a PC in every home?]]></description>
+      <pubDate>Thu, 22 Dec 2005 11:00:03 +0000</pubDate>
+      <enclosure url="http://clearleft.com/dconstruct05/mp3/TomHume.mp3" length="44877273" type="audio/mpeg"/>
+      <guid isPermaLink="false">tom-hume-web-everywhere</guid>
+    </item>
+    <item>
+      <title>Cory Doctorow - The Remix Economy</title>
+      <description><![CDATA[Member of the Electronic Frontier Foundation, Cory Doctorow discusses the history of copyright over the years and the effect it has played on innovation. Cory examines how the concept of IP is changing, and how it will impact on a new generation of rich Internet applications.]]></description>
+      <pubDate>Mon, 27 Mar 2005 22:22:00 +0100</pubDate>
+      <enclosure url="http://clearleft.com/dconstruct05/mp3/CoryDoctorow.mp3" length="36632199" type="audio/mpeg"/>
+      <guid isPermaLink="false">cory-doctorow-remix-economy</guid>
+    </item>
+  </channel>
+</rss>
